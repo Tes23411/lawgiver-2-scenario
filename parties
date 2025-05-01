@@ -1,0 +1,2120 @@
+"parties": [
+    {
+      "nameOriginal": "Popolazione democratica",
+      "acronymOriginal": "PD",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 2000,
+        "end": 0
+      },
+      "colorData": {
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 1
+    },
+    {
+      "nameOriginal": "Movimento Stellato",
+      "acronymOriginal": "MS",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 2009,
+        "end": 0
+      },
+      "colorData": {
+        "r": 255,
+        "g": 181,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 8,
+          "value": 70
+        },
+        {
+          "id": 9,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 2
+    },
+    {
+      "nameOriginal": "Republic Power",
+      "acronymOriginal": "RP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 5,
+      "time": {
+        "start": 1850,
+        "end": 0
+      },
+      "colorData": {
+        "r": 235,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 70
+        },
+        {
+          "id": 2,
+          "value": 60
+        }
+      ],
+      "factions": [
+        {
+          "id": 3,
+          "value": 50
+        }
+      ],
+      "people": [],
+      "regions": [],
+      "rules": [
+        1,
+        2
+      ],
+      "predecessor": 0,
+      "size": 0,
+      "id": 3
+    },
+    {
+      "nameOriginal": "Democratic Power",
+      "acronymOriginal": "DP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 5,
+      "time": {
+        "start": 1830,
+        "end": 0
+      },
+      "colorData": {
+        "r": 49,
+        "g": 98,
+        "b": 255,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 6,
+          "value": 70
+        },
+        {
+          "id": 7,
+          "value": 70
+        }
+      ],
+      "factions": [
+        {
+          "id": 8,
+          "value": 50
+        }
+      ],
+      "people": [],
+      "regions": [],
+      "rules": [
+        1,
+        2
+      ],
+      "predecessor": 0,
+      "size": 0,
+      "id": 4
+    },
+    {
+      "nameOriginal": "Liberty Party",
+      "acronymOriginal": "LP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 5,
+      "time": {
+        "start": 1950,
+        "end": 0
+      },
+      "colorData": {
+        "r": 232,
+        "g": 166,
+        "b": 1,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 3,
+          "value": 80
+        },
+        {
+          "id": 1,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 5
+    },
+    {
+      "nameOriginal": "Charismatische Deutsche Union",
+      "acronymOriginal": "CDU",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 6,
+      "time": {
+        "start": 1945,
+        "end": 0
+      },
+      "colorData": {
+        "r": 55,
+        "g": 55,
+        "b": 55,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 80
+        },
+        {
+          "id": 2,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        219,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 6
+    },
+    {
+      "nameOriginal": "Freie Demokratie",
+      "acronymOriginal": "FD",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 6,
+      "time": {
+        "start": 1948,
+        "end": 0
+      },
+      "colorData": {
+        "r": 243,
+        "g": 173,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 70
+        },
+        {
+          "id": 3,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 7
+    },
+    {
+      "nameOriginal": "Soziales Deutschland",
+      "acronymOriginal": "SD",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 6,
+      "time": {
+        "start": 1875,
+        "end": 0
+      },
+      "colorData": {
+        "r": 228,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 70
+        },
+        {
+          "id": 2,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 8
+    },
+    {
+      "nameOriginal": "Grüne Partei",
+      "acronymOriginal": "GP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 6,
+      "time": {
+        "start": 1993,
+        "end": 0
+      },
+      "colorData": {
+        "r": 79,
+        "g": 194,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 9,
+          "value": 90
+        },
+        {
+          "id": 8,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 9
+    },
+    {
+      "nameOriginal": "Arbeiter Partei",
+      "acronymOriginal": "AP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 6,
+      "time": {
+        "start": 2013,
+        "end": 0
+      },
+      "colorData": {
+        "r": 0,
+        "g": 186,
+        "b": 217,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 5,
+          "value": 70
+        },
+        {
+          "id": 1,
+          "value": 90
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 10
+    },
+    {
+      "nameOriginal": "Linke Partei",
+      "acronymOriginal": "LP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 6,
+      "time": {
+        "start": 2007,
+        "end": 0
+      },
+      "colorData": {
+        "r": 176,
+        "g": 0,
+        "b": 178,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 8,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 11
+    },
+    {
+      "nameOriginal": "Partido del pueblo",
+      "acronymOriginal": "PP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 2,
+      "time": {
+        "start": 1975,
+        "end": 0
+      },
+      "colorData": {
+        "r": 39,
+        "g": 79,
+        "b": 206,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 60
+        },
+        {
+          "id": 2,
+          "value": 20
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 12
+    },
+    {
+      "nameOriginal": "Partido Social",
+      "acronymOriginal": "PS",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 2,
+      "time": {
+        "start": 1880,
+        "end": 0
+      },
+      "colorData": {
+        "r": 247,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 80
+        },
+        {
+          "id": 8,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 13
+    },
+    {
+      "nameOriginal": "Partido Unido",
+      "acronymOriginal": "PU",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 2,
+      "time": {
+        "start": 2014,
+        "end": 0
+      },
+      "colorData": {
+        "r": 170,
+        "g": 0,
+        "b": 174,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 8,
+          "value": 50
+        },
+        {
+          "id": 7,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 14
+    },
+    {
+      "nameOriginal": "Partido de la Ciudad",
+      "acronymOriginal": "PdC",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 2,
+      "time": {
+        "start": 2006,
+        "end": 0
+      },
+      "colorData": {
+        "r": 255,
+        "g": 104,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 6,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 15
+    },
+    {
+      "nameOriginal": "Partido della vox",
+      "acronymOriginal": "PV",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 2,
+      "time": {
+        "start": 2013,
+        "end": 0
+      },
+      "colorData": {
+        "r": 82,
+        "g": 200,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 70
+        },
+        {
+          "id": 5,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 16
+    },
+    {
+      "nameOriginal": "Partido Catalano",
+      "acronymOriginal": "PC",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 2,
+      "time": {
+        "start": 1931,
+        "end": 0
+      },
+      "colorData": {
+        "r": 255,
+        "g": 179,
+        "b": 54,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 20
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        23
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 17
+    },
+    {
+      "nameOriginal": "Partido Vasco",
+      "acronymOriginal": "PV",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 2,
+      "time": {
+        "start": 2011,
+        "end": 0
+      },
+      "colorData": {
+        "r": 49,
+        "g": 120,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 20
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        37
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 18
+    },
+    {
+      "nameOriginal": "Partito Catalano Unido",
+      "acronymOriginal": "PCU",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 2,
+      "time": {
+        "start": 2012,
+        "end": 0
+      },
+      "colorData": {
+        "r": 224,
+        "g": 7,
+        "b": 95,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        23
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 19
+    },
+    {
+      "nameOriginal": "Partido de Navarra",
+      "acronymOriginal": "PN",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 2,
+      "time": {
+        "start": 1979,
+        "end": 0
+      },
+      "colorData": {
+        "r": 166,
+        "g": 166,
+        "b": 166,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        36
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 20
+    },
+    {
+      "nameOriginal": "Parti en mouvement",
+      "acronymOriginal": "PM",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 3,
+      "time": {
+        "start": 2016,
+        "end": 0
+      },
+      "colorData": {
+        "r": 245,
+        "g": 177,
+        "b": 10,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 21
+    },
+    {
+      "nameOriginal": "Les representants",
+      "acronymOriginal": "LR",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 3,
+      "time": {
+        "start": 1950,
+        "end": 0
+      },
+      "colorData": {
+        "r": 47,
+        "g": 95,
+        "b": 247,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 22
+    },
+    {
+      "nameOriginal": "Parti du peuple",
+      "acronymOriginal": "PP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 3,
+      "time": {
+        "start": 1969,
+        "end": 0
+      },
+      "colorData": {
+        "r": 210,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 23
+    },
+    {
+      "nameOriginal": "Parti national",
+      "acronymOriginal": "PN",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 3,
+      "time": {
+        "start": 1945,
+        "end": 0
+      },
+      "colorData": {
+        "r": 9,
+        "g": 37,
+        "b": 125,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 5,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 24
+    },
+    {
+      "nameOriginal": "Conservative Union",
+      "acronymOriginal": "CU",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 4,
+      "time": {
+        "start": 1834,
+        "end": 0
+      },
+      "colorData": {
+        "r": 44,
+        "g": 88,
+        "b": 228,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 70
+        },
+        {
+          "id": 6,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 25
+    },
+    {
+      "nameOriginal": "Social Party",
+      "acronymOriginal": "SP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 4,
+      "time": {
+        "start": 1900,
+        "end": 0
+      },
+      "colorData": {
+        "r": 255,
+        "g": 35,
+        "b": 35,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 26
+    },
+    {
+      "nameOriginal": "Scottish Party",
+      "acronymOriginal": "SP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 4,
+      "time": {
+        "start": 1935,
+        "end": 0
+      },
+      "colorData": {
+        "r": 237,
+        "g": 171,
+        "b": 10,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 27
+    },
+    {
+      "nameOriginal": "Free democrats",
+      "acronymOriginal": "FD",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 4,
+      "time": {
+        "start": 1988,
+        "end": 0
+      },
+      "colorData": {
+        "r": 247,
+        "g": 101,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 20
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 28
+    },
+    {
+      "nameOriginal": "Welsh Party",
+      "acronymOriginal": "WP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 4,
+      "time": {
+        "start": 1925,
+        "end": 0
+      },
+      "colorData": {
+        "r": 0,
+        "g": 217,
+        "b": 187,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 20
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        49,
+        50
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 29
+    },
+    {
+      "nameOriginal": "Green Party",
+      "acronymOriginal": "GP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 4,
+      "time": {
+        "start": 1990,
+        "end": 0
+      },
+      "colorData": {
+        "r": 79,
+        "g": 194,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 9,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 30
+    },
+    {
+      "nameOriginal": "Union Party",
+      "acronymOriginal": "UP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 4,
+      "time": {
+        "start": 1971,
+        "end": 0
+      },
+      "colorData": {
+        "r": 190,
+        "g": 54,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        55
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 31
+    },
+    {
+      "nameOriginal": "Irish party",
+      "acronymOriginal": "IP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 4,
+      "time": {
+        "start": 1905,
+        "end": 0
+      },
+      "colorData": {
+        "r": 42,
+        "g": 104,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        55
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 32
+    },
+    {
+      "nameOriginal": "Bairische Union",
+      "acronymOriginal": "BU",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 6,
+      "time": {
+        "start": 1945,
+        "end": 0
+      },
+      "colorData": {
+        "r": 0,
+        "g": 119,
+        "b": 255,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [
+        220
+      ],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 33
+    },
+    {
+      "nameOriginal": "Green Party",
+      "acronymOriginal": "GP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 5,
+      "time": {
+        "start": 1991,
+        "end": 0
+      },
+      "colorData": {
+        "r": 77,
+        "g": 188,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 8,
+          "value": 30
+        },
+        {
+          "id": 9,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 34
+    },
+    {
+      "nameOriginal": "Единая Россия",
+      "acronymOriginal": "ER",
+      "nameInternational": "United Russia",
+      "acronymInternational": "UR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1989,
+        "end": 0
+      },
+      "colorData": {
+        "r": 41,
+        "g": 134,
+        "b": 247,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 80
+        },
+        {
+          "id": 1,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 35
+    },
+    {
+      "nameOriginal": "Коммунистическая партия",
+      "acronymOriginal": "KP",
+      "nameInternational": "Communist Party",
+      "acronymInternational": "CP",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1920,
+        "end": 0
+      },
+      "colorData": {
+        "r": 232,
+        "g": 17,
+        "b": 17,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 14,
+          "value": 80
+        },
+        {
+          "id": 8,
+          "value": 20
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 36
+    },
+    {
+      "nameOriginal": "Forte in Italia",
+      "acronymOriginal": "FI",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 1994,
+        "end": 0
+      },
+      "colorData": {
+        "r": 41,
+        "g": 84,
+        "b": 218,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 50
+        },
+        {
+          "id": 3,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 37
+    },
+    {
+      "nameOriginal": "Legato al nord",
+      "acronymOriginal": "LN",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 1991,
+        "end": 0
+      },
+      "colorData": {
+        "r": 45,
+        "g": 110,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 5,
+          "value": 50
+        },
+        {
+          "id": 12,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 38
+    },
+    {
+      "nameOriginal": "Fratelli del paese",
+      "acronymOriginal": "FP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 2012,
+        "end": 0
+      },
+      "colorData": {
+        "r": 34,
+        "g": 112,
+        "b": 207,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 60
+        },
+        {
+          "id": 2,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 39
+    },
+    {
+      "nameOriginal": "Liberal Canada",
+      "acronymOriginal": "LC",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 8,
+      "time": {
+        "start": 1867,
+        "end": 0
+      },
+      "colorData": {
+        "r": 234,
+        "g": 109,
+        "b": 106,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 60
+        },
+        {
+          "id": 6,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 40
+    },
+    {
+      "nameOriginal": "Conservative People",
+      "acronymOriginal": "CP",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 8,
+      "time": {
+        "start": 2003,
+        "end": 0
+      },
+      "colorData": {
+        "r": 100,
+        "g": 149,
+        "b": 237,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 50
+        },
+        {
+          "id": 11,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 41
+    },
+    {
+      "nameOriginal": "Quebec guys",
+      "acronymOriginal": "QG",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 1,
+      "nation": 8,
+      "time": {
+        "start": 1991,
+        "end": 0
+      },
+      "colorData": {
+        "r": 17,
+        "g": 153,
+        "b": 153,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 12,
+          "value": 60
+        },
+        {
+          "id": 10,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 4,
+      "id": 42
+    },
+    {
+      "nameOriginal": "Modern Democracy",
+      "acronymOriginal": "MD",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 8,
+      "time": {
+        "start": 1961,
+        "end": 0
+      },
+      "colorData": {
+        "r": 244,
+        "g": 164,
+        "b": 96,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 60
+        },
+        {
+          "id": 8,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 43
+    },
+    {
+      "nameOriginal": "Po prostu Polska",
+      "acronymOriginal": "PP",
+      "nameInternational": "Just Poland",
+      "acronymInternational": "JP",
+      "playable": 0,
+      "nation": 138,
+      "time": {
+        "start": 2001,
+        "end": 0
+      },
+      "colorData": {
+        "r": 38,
+        "g": 78,
+        "b": 203,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 50
+        },
+        {
+          "id": 2,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 44
+    },
+    {
+      "nameOriginal": "Platforma Ludzi",
+      "acronymOriginal": "PL",
+      "nameInternational": "People Platform",
+      "acronymInternational": "PP",
+      "playable": 0,
+      "nation": 138,
+      "time": {
+        "start": 2001,
+        "end": 0
+      },
+      "colorData": {
+        "r": 240,
+        "g": 98,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 6,
+          "value": 50
+        },
+        {
+          "id": 4,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 45
+    },
+    {
+      "nameOriginal": "Lewa Polska",
+      "acronymOriginal": "LP",
+      "nameInternational": "Left Poland",
+      "acronymInternational": "LP",
+      "playable": 0,
+      "nation": 138,
+      "time": {
+        "start": 1989,
+        "end": 0
+      },
+      "colorData": {
+        "r": 248,
+        "g": 34,
+        "b": 34,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 50
+        },
+        {
+          "id": 8,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 46
+    },
+    {
+      "nameOriginal": "Türkiye'de Adalet",
+      "acronymOriginal": "TA",
+      "nameInternational": "Justice in Turkey",
+      "acronymInternational": "JT",
+      "playable": 0,
+      "nation": 119,
+      "time": {
+        "start": 2001,
+        "end": 0
+      },
+      "colorData": {
+        "r": 233,
+        "g": 95,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 5,
+          "value": 50
+        },
+        {
+          "id": 2,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 47
+    },
+    {
+      "nameOriginal": "Cumhuriyetçi Halk",
+      "acronymOriginal": "CH",
+      "nameInternational": "Republic People",
+      "acronymInternational": "RP",
+      "playable": 0,
+      "nation": 119,
+      "time": {
+        "start": 1919,
+        "end": 0
+      },
+      "colorData": {
+        "r": 219,
+        "g": 30,
+        "b": 30,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 50
+        },
+        {
+          "id": 7,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 48
+    },
+    {
+      "nameOriginal": "Либеральная Россия",
+      "acronymOriginal": "ЛР",
+      "nameInternational": "Liberal Russia",
+      "acronymInternational": "LR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 0
+      },
+      "colorData": {
+        "r": 238,
+        "g": 172,
+        "b": 10,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 70
+        },
+        {
+          "id": 5,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 49
+    },
+    {
+      "nameOriginal": "Просто Россия",
+      "acronymOriginal": "ПР",
+      "nameInternational": "Just Russia",
+      "acronymInternational": "JR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 2006,
+        "end": 0
+      },
+      "colorData": {
+        "r": 227,
+        "g": 92,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 50
+    },
+    {
+      "nameOriginal": "Halk Demokrasisi",
+      "acronymOriginal": "HD",
+      "nameInternational": "People Democracy",
+      "acronymInternational": "PD",
+      "playable": 0,
+      "nation": 119,
+      "time": {
+        "start": 2023,
+        "end": 0
+      },
+      "colorData": {
+        "r": 147,
+        "g": 0,
+        "b": 150,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 12,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 51
+    },
+    {
+      "nameOriginal": "Milli Parti",
+      "acronymOriginal": "MP",
+      "nameInternational": "National Party",
+      "acronymInternational": "NP",
+      "playable": 0,
+      "nation": 119,
+      "time": {
+        "start": 1969,
+        "end": 0
+      },
+      "colorData": {
+        "r": 200,
+        "g": 55,
+        "b": 55,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 52
+    },
+    {
+      "nameOriginal": "Partito cristiano",
+      "acronymOriginal": "PC",
+      "nameInternational": "Christian party",
+      "acronymInternational": "CP",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 1950,
+        "end": 1991
+      },
+      "colorData": {
+        "r": 135,
+        "g": 206,
+        "b": 250,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 50
+        },
+        {
+          "id": 2,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 53
+    },
+    {
+      "nameOriginal": "Partito comunista",
+      "acronymOriginal": "PC",
+      "nameInternational": "Comunist Party",
+      "acronymInternational": "CP",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 1950,
+        "end": 1991
+      },
+      "colorData": {
+        "r": 253,
+        "g": 46,
+        "b": 46,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 14,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 54
+    },
+    {
+      "nameOriginal": "Yeni Parti",
+      "acronymOriginal": "YP",
+      "nameInternational": "New Party",
+      "acronymInternational": "NP",
+      "playable": 0,
+      "nation": 119,
+      "time": {
+        "start": 2018,
+        "end": 0
+      },
+      "colorData": {
+        "r": 111,
+        "g": 111,
+        "b": 111,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 70
+        },
+        {
+          "id": 5,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 55
+    },
+    {
+      "nameOriginal": "Partito Sociale",
+      "acronymOriginal": "PS",
+      "nameInternational": "Social Party",
+      "acronymInternational": "SP",
+      "playable": 0,
+      "nation": 1,
+      "time": {
+        "start": 1892,
+        "end": 1994
+      },
+      "colorData": {
+        "r": 255,
+        "g": 104,
+        "b": 37,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 50
+        },
+        {
+          "id": 8,
+          "value": 20
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 56
+    },
+    {
+      "nameOriginal": "Ana parti",
+      "acronymOriginal": "AP",
+      "nameInternational": "Mother Party",
+      "acronymInternational": "MP",
+      "playable": 0,
+      "nation": 119,
+      "time": {
+        "start": 1983,
+        "end": 2009
+      },
+      "colorData": {
+        "r": 238,
+        "g": 172,
+        "b": 10,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 60
+        },
+        {
+          "id": 11,
+          "value": 30
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 57
+    },
+    {
+      "nameOriginal": "Partido de centro",
+      "acronymOriginal": "PC",
+      "nameInternational": "",
+      "acronymInternational": "",
+      "playable": 0,
+      "nation": 2,
+      "time": {
+        "start": 1982,
+        "end": 2012
+      },
+      "colorData": {
+        "r": 36,
+        "g": 137,
+        "b": 87,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 58
+    },
+    {
+      "nameOriginal": "Hakikat Partisi",
+      "acronymOriginal": "HP",
+      "nameInternational": "Truth Party",
+      "acronymInternational": "TP",
+      "playable": 0,
+      "nation": 119,
+      "time": {
+        "start": 1983,
+        "end": 2007
+      },
+      "colorData": {
+        "r": 213,
+        "g": 32,
+        "b": 217,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 50
+        }
+      ],
+      "factions": [
+        {
+          "id": 5,
+          "value": 30
+        }
+      ],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 59
+    },
+    {
+      "nameOriginal": "Démocratie Française",
+      "acronymOriginal": "DF",
+      "nameInternational": "French democracy",
+      "acronymInternational": "FD",
+      "playable": 0,
+      "nation": 3,
+      "time": {
+        "start": 1974,
+        "end": 2007
+      },
+      "colorData": {
+        "r": 90,
+        "g": 186,
+        "b": 248,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 60
+    },
+    {
+      "nameOriginal": "Polska Partia",
+      "acronymOriginal": "PP",
+      "nameInternational": "Polish Party",
+      "acronymInternational": "PP",
+      "playable": 0,
+      "nation": 138,
+      "time": {
+        "start": 1990,
+        "end": 0
+      },
+      "colorData": {
+        "r": 102,
+        "g": 231,
+        "b": 49,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 61
+    },
+    {
+      "nameOriginal": "Grupa Wolności",
+      "acronymOriginal": "GW",
+      "nameInternational": "Freedom Group",
+      "acronymInternational": "FG",
+      "playable": 0,
+      "nation": 138,
+      "time": {
+        "start": 1994,
+        "end": 2005
+      },
+      "colorData": {
+        "r": 97,
+        "g": 145,
+        "b": 231,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 11,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 0,
+      "id": 62
+    }
+  ],
+  
